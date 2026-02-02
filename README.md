@@ -12,7 +12,7 @@ It includes:
 ##  Project Structure
 
 ```
-├── ontology.rdf                    # Main ontology in RDF/XML format
+├── ontology.rdf                    #   Main ontology in RDF/XML format
 ├── cultural_heritage_ontology.ttl # Ontology in Turtle (.ttl) format
 ├── sparql_service/                # Browser and SPARQL interface for searching and recommendations
 ├── nlp/
