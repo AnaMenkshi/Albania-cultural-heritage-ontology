@@ -26,6 +26,7 @@ It includes:
 
 ##  Ontology: `ontology.rdf` and `cultural_heritage_ontology.ttl`
 
+
 This ontology models Albania’s rich intangible heritage including:
 - Traditional dances
 - Rituals and customs
